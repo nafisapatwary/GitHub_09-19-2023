@@ -4,5 +4,6 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("My name is Nafisa");
         System.out.println("My favorite movie is Mean Girls");
+        System.out.println("My favorite food is brownies");
     }
 }
